@@ -3,4 +3,6 @@ Board Hardware
 https://esp.huhn.me/   / webflasher
 ![IMG_6675](https://github.com/user-attachments/assets/c0ac4407-d5da-40b7-8840-1298992f0c8f)
 
-flasher settings
+flasher settings download file open webflasher change default bootloader to 0x0000 and flash 
+
+<img width="675" alt="Screenshot 2024-12-18 at 01 19 26" src="https://github.com/user-attachments/assets/3a7eccf2-1261-4d3a-b371-37f17f9fe307" />
